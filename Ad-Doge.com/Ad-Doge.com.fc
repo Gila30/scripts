@@ -36,8 +36,8 @@ public class addoge : FaucetScript
         {
             return new FaucetSettings("https://Ad-Doge.com")
             {
-                new FaucetSetting(){Name="Email",Display="UserName",Type=EditorType.TextBox,Required=true},
-                new FaucetSetting(){Name="Password",Display="Password",Type=EditorType.Password,Required=true},
+                new FaucetSetting(){Name="hudaawwal069@gmail.com",Display="Dups30",Type=EditorType.TextBox,Required=true},
+                new FaucetSetting(){Name="March3098",Display="March3098",Type=EditorType.Password,Required=true},
 				
                 new FaucetSetting(){Name="YouTubeClaim",Display="YouTubeClaim - wait 30sec between each video - claim unlimited - without captcha",Type=EditorType.CheckBox,Default=true},	
                 new FaucetSetting(){Name="VideoClaim",Display="VideoClaim - wait 30sec between each video - claim unlimited - without captcha",Type=EditorType.CheckBox,Default=true},	
